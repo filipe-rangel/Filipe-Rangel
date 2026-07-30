@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá! Eu sou o Filipe Rangel 👋
 
-<!--
-**filipe-rangel/Filipe-Rangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou focado no desenvolvimento Front-end com React e TypeScript.
 
-Here are some ideas to get you started:
+Tenho interesse em construir aplicações modernas, escrever código limpo e aprender boas práticas de desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* HTML
+* CSS
+* Git
+* GitHub
+
+## Projetos em destaque
+
+### 📌 TaskMaster Pro
+
+Aplicação para gerenciamento de tarefas desenvolvida com React e TypeScript.
+
+### ⏱️ Chronos
+
+Aplicação baseada na técnica Pomodoro com gerenciamento de ciclos, histórico de tarefas, persistência de dados e interface desenvolvida com React e TypeScript.
+
+### 📝 Blog
+
+Projeto desenvolvido com Next.js 15 utilizando App Router, Server Actions e TypeScript.
+
+### 🎓 Serliv Landing Page
+
+Landing Page responsiva para uma plataforma de cursos de programação, desenvolvida com HTML, CSS e JavaScript puro. O projeto conta com layout responsivo, componentes reutilizáveis, animações, efeito parallax na seção principal, carrossel desenvolvido sem bibliotecas externas e manipulação do DOM utilizando JavaScript moderno, seguindo boas práticas de organização e semântica.
+
+## Atualmente estudando
+
+* Next.js
+* NestJS
+* Arquitetura de aplicações Web
+* TypeScript avançado
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/filipe-rangel-97898935b/
+- E-mail: filipedeoliveirarangel5@gmail.com
