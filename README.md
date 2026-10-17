@@ -17,10 +17,6 @@ Tenho interesse em construir aplicações modernas, escrever código limpo e apr
 
 ## Projetos em destaque
 
-### 📌 TaskMaster Pro
-
-Aplicação para gerenciamento de tarefas desenvolvida com React e TypeScript.
-
 ### ⏱️ Chronos
 
 Aplicação baseada na técnica Pomodoro com gerenciamento de ciclos, histórico de tarefas, persistência de dados e interface desenvolvida com React e TypeScript.
